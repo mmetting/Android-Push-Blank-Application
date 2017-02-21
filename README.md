@@ -65,7 +65,4 @@ curl \
 ![alt text](./pictures/import.png "Import an exisiting Android app from GitHub")
 
 - Click the button for `Import & Move on to Integration`
-
-![alt text](./pictures/finished.png "Done")
-
 - Click `Finished - Take me My App`
