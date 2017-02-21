@@ -66,3 +66,5 @@ curl \
 
 - Click the button for `Import & Move on to Integration`
 - Click `Finished - Take me My App`
+
+> Enable Push Notifications in the Push-Tab on the left hand-side to retrieve a Variant ID and Variant Secret or trigger a notification.
