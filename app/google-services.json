@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "428527081491",
+    "firebase_url": "https://push-f690b.firebaseio.com",
+    "project_id": "push-f690b",
+    "storage_bucket": "push-f690b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428527081491:android:54d6c4f1a11f0be0",
+        "android_client_info": {
+          "package_name": "org.feedhenry.pushstarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428527081491-aoduer4snr7sajj4i63jml5slkda6gsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCILZXaR6CaE47D2z-l4cOY1OFLhvyTgCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
